@@ -14,7 +14,7 @@ Fyle Internship Challenge
 <h3><u>
 To run the app globally</u></h3>
 
-<h4 style="font-size:12px">Click on this link - https://fyle-nu.vercel.app</h4>
+<h4 style="font-size:12px">Click on this link - https://fyleassignment-five.vercel.app/search</h4>
 
 <h3><u>To run the app locally on your machine</u></h3>
 
