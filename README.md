@@ -1,4 +1,3 @@
-
 <h2 align="center">
 Github Repositories listing Page
 </h2>
@@ -23,9 +22,9 @@ To run the app globally</u></h3>
 <li style="font-size:12px">Copy the repository URL.</li>
 <li style="font-size:12px">Open terminal and navigate to the folder where you want to download the project on you local machine. (like cd desktop)
 </li>
-<li style="font-size:12px">Type command- <b>git clone -copied url- </b>on terminal
+<li style="font-size:12px">Enter command- <b>git clone -copied url- </b>on terminal
 </li>
-<li style="font-size:12px">or type command- <b>git clone https://github.com/hkalra0077/fyleassignment.git </b> on terminal
+<li style="font-size:12px">or directly enter command- <b>git clone https://github.com/hkalra0077/fyleassignment.git </b> on terminal
 </li>
 <li style="font-size:12px">Ensure that you have npm, node, angular intalled on your system
 </li>
